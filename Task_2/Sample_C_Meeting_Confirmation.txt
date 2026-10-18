@@ -1,0 +1,23 @@
+Sample C — Routine Meeting Confirmation
+
+Subject: Team Meeting Confirmation — Friday
+
+Email body:
+
+Hello Alex,
+
+This is a reminder that our team meeting is scheduled for Friday at 10:00 AM.
+
+Please refer to the meeting details shared through our usual company calendar.
+
+Thank you,
+Team Coordinator
+
+Initial observations:
+- The message contains routine meeting information.
+- It does not ask for passwords, OTPs, or payment.
+- No suspicious link or attachment is included in this example.
+
+Preliminary classification: Appears Safe based on the provided text only.
+
+Evidence limitation: This is a fictional training example. The sender's identity and email headers have not been verified. Do not treat a real email as safe based on its wording alone.

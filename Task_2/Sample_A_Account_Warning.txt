@@ -1,0 +1,26 @@
+Sample A — Urgent Account Lock Warning
+
+Subject: Urgent: Your Account Will Be Locked
+
+Email body:
+
+Dear User,
+
+We noticed suspicious activity on your account. To avoid account suspension, please verify your details immediately.
+
+Verify Now: `http://secure-account-verify[.]com`
+
+Failure to verify within 24 hours will result in permanent account lock.
+
+Regards,  
+Security Team
+
+Initial observations:
+- Generic greeting: “Dear User”
+- Urgent language and threat of account suspension
+- Request to verify account details immediately
+- Suspicious-looking link
+
+Preliminary classification: Phishing indicators present; treat as potentially phishing.
+
+Evidence limitation: The sender address and raw email headers were not provided, so they have not been verified.

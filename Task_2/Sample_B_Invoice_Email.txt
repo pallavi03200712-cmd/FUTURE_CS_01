@@ -1,0 +1,23 @@
+Sample B — Unexpected Invoice Email
+
+Subject: Invoice Payment Pending — Action Required
+
+Email body:
+
+Hello,
+
+Please find the attached invoice for your recent purchase. Our records show that payment is still pending.
+
+Please review the invoice and confirm the payment details with your usual supplier contact before taking action.
+
+Thank you,
+Accounts Team
+
+Initial observations:
+- An unexpected invoice may be suspicious if no purchase was made.
+- The message mentions a payment but does not identify the supplier.
+- No sender address or attachment details have been provided.
+
+Preliminary classification: Suspicious — more information is needed to determine whether the email is legitimate or phishing.
+
+Evidence limitation: This is a fictional training example. No real sender, attachment, or email headers have been verified.
